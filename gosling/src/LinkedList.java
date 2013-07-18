@@ -31,6 +31,10 @@ public class LinkedList {
         return nextElement;
     }
 
+    public String toString() {
+        return element.toString();
+    }
+
 
 
 

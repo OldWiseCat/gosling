@@ -99,4 +99,8 @@ public class Vehicle {
         }
     }
 
+    public String toString() {
+        return id.toString();
+    }
+
 }
